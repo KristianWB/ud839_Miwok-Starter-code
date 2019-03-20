@@ -10,6 +10,7 @@
         android:theme="@style/AppTheme">
         <activity android:name=".ColorsActivity"
             android:label="Colors"/>
+            <!--android:Background="8800A0"/>-->
         <activity android:name=".FamilyActivity"
             android:label="Family"/>
         <activity android:name=".PhrasesActivity"
